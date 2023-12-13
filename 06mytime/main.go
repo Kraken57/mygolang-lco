@@ -17,3 +17,5 @@ func main() {
 	fmt.Println(createdDate)
 	fmt.Println(createdDate.Format("01-02-2006 15:04:05 Monday"))
 }
+
+
